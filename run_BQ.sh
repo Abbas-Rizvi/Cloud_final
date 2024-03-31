@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source set_env_variables.sh
+source scripts/set_env_variables.sh
 
 
 python vehicle-BQ.py \
